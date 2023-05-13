@@ -1,9 +1,7 @@
------------------------------------------------------------
-Readme for Assignment 3 of ECE5544 Compiler Optimization
-Group: Rohit Mehta, Shambhavi Kuthe
+
 -----------------------------------------------------------
 Instructions:
-Extract the shambhavianil-rohitnm.zip in llvm-project/llvm/lib/Transforms
+Copy the folders in Transfroms folder in llvm-project/llvm/lib/
 
 
 -----------------------------------------------------------
@@ -11,7 +9,6 @@ TO TEST THE LICM AND DOMINATORS PASS
 -----------------------------------------------------------
 Follow the instructions given below:
 1. cd Transforms
-2. cd shambhavianil-rohitnm
 3. cd LICM
 4. make clean
 5. make
@@ -24,7 +21,6 @@ TO TEST THE DCE PASS
 ------------------------------------------------------------
 Follow the instructions given below:
 1. cd Transforms
-2. cd shambhavianil-rohitnm
 3. cd DCE
 4. make clean
 5. make
